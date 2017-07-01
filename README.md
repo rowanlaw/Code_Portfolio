@@ -5,14 +5,14 @@ This repository is created to store the Code Portfolio created in Python and R a
 
 Description:
 
-1. Data Transformation & Visualization (Python):
+1. Data Cleaning & Visualization (Python):
 
-It is a study of the weight of the Information and Communications industry in HK economy, the relationship between the two, and also a comparison with Japan. It is a demonstration of transforming and combining real life datasets from different sources. Multiple charts have also been plotted for visualization.
+This is a demonstration of transforming real life datasets, cleaning and combining them, and visualizing with different chart types. It is a high-level comparison of the Information and Communications industry in HK and Japan.
 
 
 2. Interactive Visualization (Python):
 
-This is an interactive Python visualization demo. Color of the bars would change according to the y-values that you pick.
+This is an interactive Python visualization demo. Color gradient of the bars would change according to the y-values that you pick. It is useful for decision makers to immediately visualize estimated impacts of different actions.
 
 
 3. Machine Learning (R):
