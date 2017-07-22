@@ -20,6 +20,11 @@ This is an interactive Python visualization demo. Color gradient of the bars wou
 This machine learning demo revolves around a larger dataset of meter readings monitoring human exercise. It involves data transformation, principal component analysis and fitting of Multinomial Log-Linear Model and Random Forest.
 
 
+4. HSI Analysis (R):
+
+This is a time series analysis of HSI (Hang Seng Index) with autocorrelation and partial autocorrelation functions. It also has some demonstrations with the R plotting package, ggplot2.
+
+
 
 Regards,
 
